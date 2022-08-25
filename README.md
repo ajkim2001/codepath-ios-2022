@@ -1,8 +1,8 @@
 # codepath-ios-2022
 
-# Pre-work - *Tip Calculator*
+# Pre-work - *Tippy*
 
-**Tip Calculator** is a tip calculator application for iOS.
+**Tippy** is a tip calculator application for iOS.
 
 Submitted by: **Alex Kim**
 
